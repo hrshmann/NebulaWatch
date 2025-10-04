@@ -1,8 +1,8 @@
 dataset/
 
-# 🚀 AstroGuard: Space Station Object Detection with YOLOv8
+# 🚀 NebulaWatch: Space Station Object Detection with YOLOv8
 
-AstroGuard is an end-to-end object detection system for identifying **Toolbox**, **Oxygen Tank**, and **Fire Extinguisher** in space station environments, powered by YOLOv8 and synthetic data from Duality AI Falcon.
+NebulaWatch is an end-to-end object detection system for identifying **Toolbox**, **Oxygen Tank**, and **Fire Extinguisher** in space station environments, powered by YOLOv8 and synthetic data from Duality AI Falcon.
 
 ---
 
@@ -160,5 +160,6 @@ MIT License. See `LICENSE` for details.
 - OpenCV
 
 ---
+
 
 **Happy detecting! 🚀**
